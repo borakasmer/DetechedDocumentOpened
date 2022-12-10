@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwVxrHS4r/U4t/Zg+eB5ijfm/zYXmYpVig1UQ4Ly+M+ssrfBypP+1xI6aG19xc5MjCB4uWWeh15nh0IPqH0JCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bora Kasmer\\source\\repos\\SaveImageToExcel\\SaveImageToExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\gembox.spreadsheet\\49.0.1153\\gembox.spreadsheet.49.0.1153.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\harfbuzzsharp\\2.8.2\\harfbuzzsharp.2.8.2.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2\\harfbuzzsharp.nativeassets.macos.2.8.2.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2\\harfbuzzsharp.nativeassets.win32.2.8.2.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bora Kasmer\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
