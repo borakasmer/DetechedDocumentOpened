@@ -1,0 +1,15 @@
+C:\Users\Bora Kasmer\source\repos\DocumentService\bin\Debug\net7.0\DocumentService.deps.json
+C:\Users\Bora Kasmer\source\repos\DocumentService\bin\Debug\net7.0\DocumentService.dll
+C:\Users\Bora Kasmer\source\repos\DocumentService\bin\Debug\net7.0\DocumentService.pdb
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\DocumentService.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\DocumentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\DocumentService.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\DocumentService.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\DocumentService.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\DocumentService.dll
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\refint\DocumentService.dll
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\DocumentService.pdb
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\ref\DocumentService.dll
+C:\Users\Bora Kasmer\source\repos\DocumentService\bin\Debug\net7.0\DAL.dll
+C:\Users\Bora Kasmer\source\repos\DocumentService\bin\Debug\net7.0\DAL.pdb
+C:\Users\Bora Kasmer\source\repos\DocumentService\obj\Debug\net7.0\DocumentService.csproj.CopyComplete
