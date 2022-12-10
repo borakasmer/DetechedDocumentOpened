@@ -1,0 +1,14 @@
+C:\Users\Bora Kasmer\source\repos\dal\bin\Debug\net7.0\DAL.deps.json
+C:\Users\Bora Kasmer\source\repos\dal\bin\Debug\net7.0\DAL.dll
+C:\Users\Bora Kasmer\source\repos\dal\bin\Debug\net7.0\DAL.pdb
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\DAL.dll
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\DAL.pdb
+C:\Users\Bora Kasmer\source\repos\dal\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\Bora Kasmer\source\repos\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\Bora Kasmer\source\repos\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
